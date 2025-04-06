@@ -59,4 +59,6 @@ The computer will randomly choose its move.
 
 
 The winner is decided based on the traditional game rules.
+![image](https://github.com/user-attachments/assets/de3c4694-29b5-49e5-a66f-60c64ee5b1cb)
+
 
