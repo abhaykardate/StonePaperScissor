@@ -28,7 +28,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/your-username/StonePaperScissor.git
+git clone https://github.com/abhaykardate/StonePaperScissor.git
 
 Navigate to the project folder:
 
