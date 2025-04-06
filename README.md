@@ -46,6 +46,11 @@ java stone_paper_scissor.java
 
 
 Choose between 1.Stone (Rock), 2.Paper, or 3. Scissor when prompted.
+![image](https://github.com/user-attachments/assets/0b39daef-24e6-4f1a-b8ff-6ffe8113ef22)
+
+
+
+
 
 
 
