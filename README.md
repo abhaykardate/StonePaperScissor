@@ -23,7 +23,9 @@ JAVA
 
 🚀 How to Run
 
+
 Clone the repository:
+
 
 
 git clone https://github.com/your-username/StonePaperScissor.git
@@ -32,16 +34,24 @@ Navigate to the project folder:
 
 
 
+
 cd StonePaperScissor
+
 Run the game:
 
+
 java stone_paper_scissor.java
+
 🧠 How to Play
 
+
 Choose between 1.Stone (Rock), 2.Paper, or 3. Scissor when prompted.
+
 
 
 The computer will randomly choose its move.
 
 
+
 The winner is decided based on the traditional game rules.
+
