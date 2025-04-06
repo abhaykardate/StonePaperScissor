@@ -1,6 +1,6 @@
 🪨 StonePaperScissor
 
-A simple console-based Stone Paper Scissor game built using Python. This project is a fun way to practice basic programming concepts such as conditionals, loops, functions, and user input handling.
+A simple console-based Stone Paper Scissor game built using java. This project is a fun way to practice basic programming concepts such as conditionals, loops, functions, and user input handling.
 
 
 🎮 Features
