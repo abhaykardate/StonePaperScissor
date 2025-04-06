@@ -35,9 +35,6 @@ Navigate to the project folder:
 cd StonePaperScissor
 Run the game:
 
-bash
-Copy
-Edit
 java stone_paper_scissor.java
 🧠 How to Play
 
